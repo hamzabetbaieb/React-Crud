@@ -1,0 +1,99 @@
+{
+  "user": [
+    {
+      "id": "ji,k,",
+      "name": "juhyujikol",
+      "password": "lloloki",
+      "email": "hbgtfrdesdrftgyh",
+      "phone": "zsderfgthy",
+      "adresse": "edfrgthyju",
+      "gender": "male"
+    },
+    {
+      "id": "aaaaaa",
+      "name": "aaaaa",
+      "password": "aaaaaa",
+      "email": "aaaaa",
+      "phone": "aaaaa",
+      "adresse": "aaaaa",
+      "gender": "male"
+    },
+    {
+      "id": "ttttt",
+      "name": "ttttt",
+      "password": "tttt",
+      "email": "tttt",
+      "phone": "tttt",
+      "adresse": "tttgtgtg",
+      "gender": "male"
+    },
+    {
+      "id": "hamza",
+      "name": "betbaieb",
+      "password": "hamza",
+      "email": "hahaodlei",
+      "phone": "2581548",
+      "adresse": "",
+      "gender": "male"
+    },
+    {
+      "id": "aaa",
+      "name": "aaa",
+      "password": "aaa",
+      "email": "aaa",
+      "phone": "aaa",
+      "adresse": "aaaa",
+      "gender": ""
+    },
+    {
+      "id": "-TWrBTz",
+      "name": "zsdef",
+      "password": "dzfzf",
+      "email": "zffzefd",
+      "phone": "zfzfzf",
+      "adresse": "efefefc",
+      "gender": "male"
+    },
+    {
+      "id": "aa",
+      "name": "aa",
+      "password": "aa",
+      "email": "aaa",
+      "phone": "aaa",
+      "adresse": "aaaaa",
+      "gender": ""
+    },
+    {
+      "id": "mouez",
+      "name": "mouez louati",
+      "password": "mouez",
+      "email": "mouez@gmail.com",
+      "phone": "588565959",
+      "adresse": "10 montplaisr abderahmenazzem",
+      "gender": "male"
+    }
+  ],
+  "employee": [
+    {
+      "name": "gtgtg",
+      "email": "tgtggbtb",
+      "phone": "11111111111",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "hamza",
+      "email": "hamza@gmail.com",
+      "phone": "28011962",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "hamza betbaieb",
+      "email": "hamza.betbaieb@gmail.com",
+      "phone": "28011962",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
